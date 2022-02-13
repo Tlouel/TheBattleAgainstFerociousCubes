@@ -1,0 +1,37 @@
+﻿  Command.cpp
+C:\Users\getre\OneDrive\Documents\TheBattleAgainstFerociousCubes-main\FIGHT-System\FIGHT-System\InputHandler.h(10,11): error C2143: erreur de syntaxe : absence de ';' avant '*'
+C:\Users\getre\OneDrive\Documents\TheBattleAgainstFerociousCubes-main\FIGHT-System\FIGHT-System\InputHandler.h(10,11): error C4430: spécificateur de type manquant - int est pris en compte par défaut. Remarque : C++ ne prend pas en charge int par défaut
+C:\Users\getre\OneDrive\Documents\TheBattleAgainstFerociousCubes-main\FIGHT-System\FIGHT-System\InputHandler.h(10,26): error C2238: jetons inattendus avant ';'
+C:\Users\getre\OneDrive\Documents\TheBattleAgainstFerociousCubes-main\FIGHT-System\FIGHT-System\InputHandler.h(13,12): error C2143: erreur de syntaxe : absence de ';' avant '*'
+C:\Users\getre\OneDrive\Documents\TheBattleAgainstFerociousCubes-main\FIGHT-System\FIGHT-System\InputHandler.h(13,12): error C4430: spécificateur de type manquant - int est pris en compte par défaut. Remarque : C++ ne prend pas en charge int par défaut
+C:\Users\getre\OneDrive\Documents\TheBattleAgainstFerociousCubes-main\FIGHT-System\FIGHT-System\InputHandler.h(13,22): error C2238: jetons inattendus avant ';'
+C:\Users\getre\OneDrive\Documents\TheBattleAgainstFerociousCubes-main\FIGHT-System\FIGHT-System\InputHandler.h(14,12): error C2143: erreur de syntaxe : absence de ';' avant '*'
+C:\Users\getre\OneDrive\Documents\TheBattleAgainstFerociousCubes-main\FIGHT-System\FIGHT-System\InputHandler.h(14,12): error C4430: spécificateur de type manquant - int est pris en compte par défaut. Remarque : C++ ne prend pas en charge int par défaut
+C:\Users\getre\OneDrive\Documents\TheBattleAgainstFerociousCubes-main\FIGHT-System\FIGHT-System\InputHandler.h(14,22): error C2238: jetons inattendus avant ';'
+C:\Users\getre\OneDrive\Documents\TheBattleAgainstFerociousCubes-main\FIGHT-System\FIGHT-System\InputHandler.h(15,12): error C2143: erreur de syntaxe : absence de ';' avant '*'
+C:\Users\getre\OneDrive\Documents\TheBattleAgainstFerociousCubes-main\FIGHT-System\FIGHT-System\InputHandler.h(15,12): error C4430: spécificateur de type manquant - int est pris en compte par défaut. Remarque : C++ ne prend pas en charge int par défaut
+C:\Users\getre\OneDrive\Documents\TheBattleAgainstFerociousCubes-main\FIGHT-System\FIGHT-System\InputHandler.h(15,22): error C2238: jetons inattendus avant ';'
+C:\Users\getre\OneDrive\Documents\TheBattleAgainstFerociousCubes-main\FIGHT-System\FIGHT-System\InputHandler.h(16,12): error C2143: erreur de syntaxe : absence de ';' avant '*'
+C:\Users\getre\OneDrive\Documents\TheBattleAgainstFerociousCubes-main\FIGHT-System\FIGHT-System\InputHandler.h(16,12): error C4430: spécificateur de type manquant - int est pris en compte par défaut. Remarque : C++ ne prend pas en charge int par défaut
+C:\Users\getre\OneDrive\Documents\TheBattleAgainstFerociousCubes-main\FIGHT-System\FIGHT-System\InputHandler.h(16,22): error C2238: jetons inattendus avant ';'
+  Game.cpp
+C:\Users\getre\OneDrive\Documents\TheBattleAgainstFerociousCubes-main\FIGHT-System\FIGHT-System\InputHandler.h(10,11): error C2143: erreur de syntaxe : absence de ';' avant '*'
+C:\Users\getre\OneDrive\Documents\TheBattleAgainstFerociousCubes-main\FIGHT-System\FIGHT-System\InputHandler.h(10,11): error C4430: spécificateur de type manquant - int est pris en compte par défaut. Remarque : C++ ne prend pas en charge int par défaut
+C:\Users\getre\OneDrive\Documents\TheBattleAgainstFerociousCubes-main\FIGHT-System\FIGHT-System\InputHandler.h(10,26): error C2238: jetons inattendus avant ';'
+C:\Users\getre\OneDrive\Documents\TheBattleAgainstFerociousCubes-main\FIGHT-System\FIGHT-System\InputHandler.h(13,12): error C2143: erreur de syntaxe : absence de ';' avant '*'
+C:\Users\getre\OneDrive\Documents\TheBattleAgainstFerociousCubes-main\FIGHT-System\FIGHT-System\InputHandler.h(13,12): error C4430: spécificateur de type manquant - int est pris en compte par défaut. Remarque : C++ ne prend pas en charge int par défaut
+C:\Users\getre\OneDrive\Documents\TheBattleAgainstFerociousCubes-main\FIGHT-System\FIGHT-System\InputHandler.h(13,22): error C2238: jetons inattendus avant ';'
+C:\Users\getre\OneDrive\Documents\TheBattleAgainstFerociousCubes-main\FIGHT-System\FIGHT-System\InputHandler.h(14,12): error C2143: erreur de syntaxe : absence de ';' avant '*'
+C:\Users\getre\OneDrive\Documents\TheBattleAgainstFerociousCubes-main\FIGHT-System\FIGHT-System\InputHandler.h(14,12): error C4430: spécificateur de type manquant - int est pris en compte par défaut. Remarque : C++ ne prend pas en charge int par défaut
+C:\Users\getre\OneDrive\Documents\TheBattleAgainstFerociousCubes-main\FIGHT-System\FIGHT-System\InputHandler.h(14,22): error C2238: jetons inattendus avant ';'
+C:\Users\getre\OneDrive\Documents\TheBattleAgainstFerociousCubes-main\FIGHT-System\FIGHT-System\InputHandler.h(15,12): error C2143: erreur de syntaxe : absence de ';' avant '*'
+C:\Users\getre\OneDrive\Documents\TheBattleAgainstFerociousCubes-main\FIGHT-System\FIGHT-System\InputHandler.h(15,12): error C4430: spécificateur de type manquant - int est pris en compte par défaut. Remarque : C++ ne prend pas en charge int par défaut
+C:\Users\getre\OneDrive\Documents\TheBattleAgainstFerociousCubes-main\FIGHT-System\FIGHT-System\InputHandler.h(15,22): error C2238: jetons inattendus avant ';'
+C:\Users\getre\OneDrive\Documents\TheBattleAgainstFerociousCubes-main\FIGHT-System\FIGHT-System\InputHandler.h(16,12): error C2143: erreur de syntaxe : absence de ';' avant '*'
+C:\Users\getre\OneDrive\Documents\TheBattleAgainstFerociousCubes-main\FIGHT-System\FIGHT-System\InputHandler.h(16,12): error C4430: spécificateur de type manquant - int est pris en compte par défaut. Remarque : C++ ne prend pas en charge int par défaut
+C:\Users\getre\OneDrive\Documents\TheBattleAgainstFerociousCubes-main\FIGHT-System\FIGHT-System\InputHandler.h(16,22): error C2238: jetons inattendus avant ';'
+C:\Users\getre\OneDrive\Documents\TheBattleAgainstFerociousCubes-main\FIGHT-System\FIGHT-System\Game.cpp(43,14): warning C4244: 'initialisation' : conversion de 'sf::Int64' en 'float', perte possible de données
+C:\Users\getre\OneDrive\Documents\TheBattleAgainstFerociousCubes-main\FIGHT-System\FIGHT-System\Game.cpp(81,25): error C2039: 'handleInput' n'est pas membre de 'InputHandler'
+C:\Users\getre\OneDrive\Documents\TheBattleAgainstFerociousCubes-main\FIGHT-System\FIGHT-System\InputHandler.h(6): message : voir la déclaration de 'InputHandler'
+  InputHandler.cpp
+  Génération de code en cours...
